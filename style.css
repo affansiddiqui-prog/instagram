@@ -1,0 +1,122 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+
+.img{
+    padding: 50px;
+    margin-left: 130px;
+}
+.box1{
+    border: 1px solid rgb(110, 106, 106);
+    width: 28%;
+    display: inline-block;
+    height: 400px;
+    position: relative;
+    top: -250px;
+}
+
+.box1>h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.charset{
+ margin-left: 60px;
+ width: 70%;
+ height: 37px;
+ border-radius: 7px;
+ border-color: rgb(102, 96, 96);
+}
+.charsett{
+    margin-left: 60px;
+ width: 70%;
+ height: 37px;
+ border-radius: 7px;
+ border-color: rgb(102, 96, 96);
+ margin-top: 5px;
+}
+.button{
+    margin: 15px;
+    width: 72%;
+    margin-left: 60px;
+    height: 38px;
+    border-radius: 7px;
+    border: none;
+    background-color: rgb(18, 161, 218);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.button:hover{
+    transform: scale(1.2);
+    background-color: skyblue;
+}
+hr{
+    width: 30%;
+    margin-left: 50px;
+}
+span{
+    color: rgb(0, 0, 0);
+}
+p{
+    display: flex;
+    margin-left:183px;
+    margin-top: -20px;
+}
+.hr{
+    margin-left: 210px;
+    margin-top: -24px
+}
+.p{
+    margin-top: 30px;
+    margin-left: 122px;
+    text-decoration: none;
+   
+}
+.po{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.p>i{
+    margin-left: -10px;
+}
+.pop{
+    margin-top: 20px;
+    margin-left: 140px
+}
+.box2{
+    border: 1px solid black;
+    width: 28%;
+    display: inline-block;
+    margin-left: -420px;
+    position: relative;
+    top: -170px;
+    height: 60px;
+
+}
+p{
+    color: rgb(0, 0, 0);
+}
+span{
+    position: relative;
+    top: 20px;
+    margin-left: 110px;
+}
+h3{
+    margin-left: 760px;
+    margin-top: -150px;
+    color: rgb(0, 0, 0);
+}
+li{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.div{
+    text-align: center;
+    font-size: 14px;
+    color: rgb(119, 119, 119);
+}
+.hs{
+    margin-left: 1100px;
+    margin-top: -300px;
+}
